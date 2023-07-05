@@ -60,10 +60,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Project] <a name="about-project"></a>
+# 📖 Hello Microverse Project <a name="about-project"></a>
 
 
-**[Hello Microverse Project]** is a fundamental introduction to Git, GitHub, and Linters for novice Micronauts.
+**Hello Microverse Project** is a fundamental introduction to Git, GitHub, and Linters for novice Micronauts.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -161,7 +161,7 @@ To be out soon.
 
 
 
-👤 **Emilia Andrzejewska**
+👤 **Okeke Okechukwu**
 
 - GitHub: [@githubhandle](https://github.com/okayboy12)
 - Twitter: [@twitterhandle](https://twitter.com/okayboy)
